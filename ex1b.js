@@ -6,7 +6,6 @@ let nombre = "Pedro";
 
 console.log("Debería aparecer 'o'", nombre) // Ejemplo: console.log("Debería aparecer 'o'", nombre[5]) o nombre[nombre.length-1]
 
-console.log("Debería aparecer 'n'", nombre)
 
 console.log("Debería aparecer 'r'", nombre)
 
