@@ -4,4 +4,4 @@ let nombres = "pedro-maría_mario";
 
 let resultado;
 
-console.log("Resultado: ['pedro, maría, mario']", resultado);
+console.log("Resultado: ['pedro', 'maría', 'mario']", resultado);
