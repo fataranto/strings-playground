@@ -4,6 +4,6 @@
 
 let nombres = "pedro-maría_mario";
 
-let resultado;
+let resultado = (nombres.replace("-", "_")).split("_"); 
 
 console.log("Resultado: ['pedro', 'maría', 'mario']", resultado);
