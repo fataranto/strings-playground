@@ -7,6 +7,6 @@ let nombre = "Pedro";
 console.log("Debería aparecer 'o'", nombre) // Ejemplo: console.log("Debería aparecer 'o'", nombre[4]) o nombre[nombre.length-1]
 
 
-console.log("Debería aparecer 'r'", nombre)
+console.log("Debería aparecer 'r'", nombre) // modifica solamente esta línea
 
-console.log("Debería aparecer 'P'", nombre)
+console.log("Debería aparecer 'P'", nombre) // modifica solamente esta línea
