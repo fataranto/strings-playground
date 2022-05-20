@@ -1,9 +1,12 @@
 // Usa el método substr sobre "Barcelona"
 
-console.log("celo", "Barcelona".substring(2, 4));
+console.log("celo", "Barcelona".substring(3, 7));
 
 // Usa el método split sobre "pedro maria mario"
 
-console.log("['pedro', 'maría', 'mario']", "pedro maría mario");
+let nombres = "pedro maría mario";
+let arrrayNombres = nombres.split(" ");
+
+console.log("['pedro', 'maría', 'mario']", arrrayNombres);
 
 
